@@ -5,6 +5,5 @@
   "minAppVersion": "0.15.0",
   "description": "This is a plugin for Obsidian that enables the usage of Ollama within your notes.",
   "author": "hinterdupfinger",
-  "authorUrl": "https://github.com/hinterdupfinger",
-  "isDesktopOnly": true
+  "authorUrl": "https://github.com/hinterdupfinger"
 }
